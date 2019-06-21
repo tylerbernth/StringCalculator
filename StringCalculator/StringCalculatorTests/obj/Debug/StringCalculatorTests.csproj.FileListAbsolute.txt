@@ -1,0 +1,8 @@
+c:\users\tyler\documents\visual studio 2015\Projects\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculatorTests.dll
+c:\users\tyler\documents\visual studio 2015\Projects\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculatorTests.pdb
+c:\users\tyler\documents\visual studio 2015\Projects\StringCalculator\StringCalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\tyler\documents\visual studio 2015\Projects\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculator.exe
+c:\users\tyler\documents\visual studio 2015\Projects\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculator.pdb
+c:\users\tyler\documents\visual studio 2015\Projects\StringCalculator\StringCalculatorTests\obj\Debug\StringCalculatorTests.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2015\Projects\StringCalculator\StringCalculatorTests\obj\Debug\StringCalculatorTests.dll
+c:\users\tyler\documents\visual studio 2015\Projects\StringCalculator\StringCalculatorTests\obj\Debug\StringCalculatorTests.pdb
